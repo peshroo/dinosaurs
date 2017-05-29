@@ -1,6 +1,6 @@
 DINOSAUR DB ANSWERS
 
-1.
+1. SELECT COUNT(name) FROM dinos;
 
 2.
 
